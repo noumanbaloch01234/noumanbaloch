@@ -18,13 +18,13 @@
 A modern e-commerce interface where users can browse products and view detailed product pages with responsive design.
 
 Tech Stack:  
-React.js | JavaScript | Tailwind CSS
+React.js | JavaScript | Tailwind CSS | Node | Express | MongoDb
 
 ### Online Book Store
 A web application that displays different books with structured layout and responsive UI for better user experience.
 
 Tech Stack:  
-React.js | JavaScript | CSS
+React.js | JavaScript | Tailwind | Node | Express | MongoDb
 
 ### Weather App
 A weather application that fetches real-time weather data from an external API and displays it in a clean interface.
